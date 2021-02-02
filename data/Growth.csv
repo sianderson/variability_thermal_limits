@@ -1,0 +1,152 @@
+Species,Strain,Location,Growth,Error,Temp,Isolation
+S. dohrnii,SdohA,NB,0,0,-2,14.18
+S. dohrnii,SdohA,NB,0.1473,0.03854,-1,14.18
+S. dohrnii,SdohA,NB,0.6279,0.0345,4,14.18
+S. dohrnii,SdohA,NB,0.880296919,0.019436452,9,14.18
+S. dohrnii,SdohA,NB,1.386294361,0.006931472,15,14.18
+S. dohrnii,SdohA,NB,1.836840028,0.062383246,22,14.18
+S. dohrnii,SdohA,NB,1.441746136,0.092881722,30,14.18
+S. dohrnii,SdohA,NB,0,0,34,14.18
+S. dohrnii,SdohB,NB,0,0,2,20.84
+S. dohrnii,SdohB,NB,0.4439,0.0329,4,20.84
+S. dohrnii,SkelB,NB,0.471340083,0.055451774,4,6.1
+S. dohrnii,SkelB,NB,1.067446658,0.013862944,9,6.1
+S. dohrnii,SkelB,NB,1.441746136,0.062383246,15,6.1
+S. dohrnii,SkelB,NB,1.670484705,0.027725887,22,6.1
+S. dohrnii,SkelB,NB,1.296185228,0.004158883,30,6.1
+S. dohrnii,SkelB,Other,0,0,35,6.1
+S. grethae,CCMP 1804,Other,0,0,4,
+S. grethae,CCMP 1804,Other,0.942680166,0.034657359,9,
+S. grethae,CCMP 1804,Other,1.531855269,0.013862944,15,
+S. grethae,CCMP 1804,Other,1.691279121,0,22,
+S. grethae,CCMP 1804,Other,1.538786741,0.004158883,25,
+S. grethae,CCMP 1804,Other,1.379362889,0.029112182,30,
+S. grethae,CCMP 1804,Other,0,0,35,
+S. grethae,SgreA,NB,0,0,1,23.02
+S. grethae,SgreA,NB,0.2703,0.064,4,23.02
+S. grethae,SgreA,NB,0.956543109,0.025805343,9,23.02
+S. grethae,SgreA,NB,1.310048171,0.013862944,15,23.02
+S. grethae,SgreA,NB,1.587307043,0.040202536,22,23.02
+S. grethae,SgreA,NB,1.878428859,0.022873857,25,23.02
+S. grethae,SgreA,NB,1.705142064,0.067928424,30,23.02
+S. grethae,SgreA,NB,0,0,34,23.02
+S. grethae,SgreB,NB,0,0,32,18.64
+S. marinoi,CCMP 1332,Other,0.242601513,0.069314718,4,
+S. marinoi,CCMP 1332,Other,0.831776617,0.027725887,9,
+S. marinoi,CCMP 1332,Other,1.323911115,0.013862944,15,
+S. marinoi,CCMP 1332,Other,1.393225833,0.013862944,22,
+S. marinoi,CCMP 1332,Other,1.323911115,0.01732868,25,
+S. marinoi,CCMP 1332,Other,0,0,30,
+S. marinoi,SkelF,NB,0.194081211,0.055451774,4,6.1
+S. marinoi,SkelF,NB,0.852571032,0.006931472,9,6.1
+S. marinoi,SkelF,NB,1.15062432,0.020794415,15,6.1
+S. marinoi,SkelF,NB,1.462540551,0.013862944,22,6.1
+S. marinoi,SkelF,NB,1.26845934,0.064462688,25,6.1
+S. marinoi,SkelF,NB,0,0,30,6.1
+S. marinoi,SmarA,NB,0.1736,0.0071,-1,-0.94
+S. marinoi,SmarA,NB,0.582791379,0.005545177,4,-0.94
+S. marinoi,SmarA,NB,1.07437813,0.013862944,9,-0.94
+S. marinoi,SmarA,NB,1.407088777,0.041588831,15,-0.94
+S. marinoi,SmarA,NB,1.608101459,0.034657359,22,-0.94
+S. marinoi,SmarA,NB,1.601169987,0.02703274,25,-0.94
+S. marinoi,SmarA,NB,1.54,0.012,27,-0.94
+S. marinoi,SmarA,NB,0,0,30,-0.94
+S. marinoi,SmarB,NB,0.138644558,0.010274275,-1,-0.94
+S. marinoi,SmarB,NB,0.57476729,0.018021827,4,-0.94
+S. marinoi,SmarB,NB,0.92188575,0.027725887,9,-0.94
+S. marinoi,SmarB,NB,1.289253756,0.034657359,15,-0.94
+S. marinoi,SmarB,NB,1.330842587,0.027725887,22,-0.94
+S. marinoi,SmarB,NB,1.531855269,0.036043653,25,-0.94
+S. marinoi,SmarB,NB,0,0,30,-0.94
+S. marinoi,SmarC,NB,0.07454416,0.001430657,-1,1.48
+S. marinoi,SmarC,NB,0.791405358,0.025646446,4,1.48
+S. marinoi,SmarC,NB,1.046652243,0.013862944,9,1.48
+S. marinoi,SmarC,NB,1.185281679,0.027725887,15,1.48
+S. marinoi,SmarC,NB,1.587307043,0.027725887,22,1.48
+S. marinoi,SmarC,NB,1.483334966,0.02703274,25,1.48
+S. marinoi,SmarC,NB,1.11,0.049,27,1.48
+S. marinoi,SmarC,NB,0,0,30,1.48
+S. marinoi,SmarD,NB,0,0,-2,16.66
+S. marinoi,SmarD,NB,0.089439496,0.011683659,-1,16.66
+S. marinoi,SmarD,NB,0.783906268,0.038123095,4,16.66
+S. marinoi,SmarD,NB,0.991200468,0.048520303,9,16.66
+S. marinoi,SmarD,NB,1.233801981,0.048520303,15,16.66
+S. marinoi,SmarD,NB,1.545718213,0.041588831,22,16.66
+S. marinoi,SmarD,NB,1.670484705,0.02218071,25,16.66
+S. marinoi,SmarD,NB,1.44,0.011,27,16.66
+S. marinoi,SmarD,NB,0,0,30,16.66
+S. marinoi,SmarE,NB,0.132730229,0.004128982,-1,16.66
+S. marinoi,SmarE,NB,0.71893349,0.052679186,4,16.66
+S. marinoi,SmarE,NB,0.928817222,0.027725887,9,16.66
+S. marinoi,SmarE,NB,1.247664925,0.006931472,15,16.66
+S. marinoi,SmarE,NB,1.441746136,0.013862944,22,16.66
+S. marinoi,SmarE,NB,1.351637002,0.048520303,25,16.66
+S. marinoi,SmarE,NB,0,0,30,16.66
+S. marinoi,SmarF,NB,0,0,-2,16.66
+S. marinoi,SmarF,NB,0.127796,0.012692807,-1,16.66
+S. marinoi,SmarF,NB,0.756924994,0.010397208,4,16.66
+S. marinoi,SmarF,NB,1.095172545,0.006931472,9,16.66
+S. marinoi,SmarF,NB,1.407088777,0.027725887,15,16.66
+S. marinoi,SmarF,NB,1.427883192,0.006238325,25,16.66
+S. marinoi,SmarF,NB,0,0,30,16.66
+S. marinoi,SmarH,NB,0.068300461,0.025861038,-1,19.81
+S. marinoi,SmarH,NB,0.705554776,0.051292891,4,19.81
+S. marinoi,SmarH,NB,1.07437813,0.062383246,9,19.81
+S. marinoi,SmarH,NB,1.386294361,0.041588831,15,19.81
+S. marinoi,SmarH,NB,1.670484705,0.013862944,22,19.81
+S. marinoi,SmarH,NB,1.601169987,0.016635532,25,19.81
+S. marinoi,SmarH,NB,1.2545964,0.0055452,30,19.81
+S. marinoi,SmarH,NB,0,0,32,19.81
+S. menzelii,CCMP 793,Other,0,0,4,
+S. menzelii,CCMP 793,Other,0.672352765,0.013862944,9,
+S. menzelii,CCMP 793,Other,1.247664925,0.069314718,15,
+S. menzelii,CCMP 793,Other,1.76752531,0.034657359,22,
+S. menzelii,CCMP 793,Other,1.310048171,0.054758627,30,
+S. menzelii,CCMP 793,Other,0,0,35,
+S. pseudocostatum,CCMP 2478,Other,0,0,4,
+S. pseudocostatum,CCMP 2478,Other,1.011994884,0.083177662,9,
+S. pseudocostatum,CCMP 2478,Other,1.72593648,0.013862944,15,
+S. pseudocostatum,CCMP 2478,Other,1.947743577,0.006931472,22,
+S. pseudocostatum,CCMP 2478,Other,1.871497388,0.019408121,25,
+S. pseudocostatum,CCMP 2478,Other,1.802182669,0.02218071,30,
+S. pseudocostatum,CCMP 2478,Other,0,0,35,
+S. pseudocostatum,SpseA,NB,0,0,4,21.56
+S. pseudocostatum,SpseA,NB,0.762461899,0.018714974,9,21.56
+S. pseudocostatum,SpseA,NB,1.233801981,0.020794415,15,21.56
+S. pseudocostatum,SpseA,NB,1.92001769,0.048520303,22,21.56
+S. pseudocostatum,SpseA,NB,1.92001769,0.026339593,25,21.56
+S. pseudocostatum,SpseA,NB,2.058647126,0.033271065,30,21.56
+S. pseudocostatum,SpseA,NB,1.189200494,0.008019748,33,21.56
+S. pseudocostatum,SpseA,NB,0,0,36,21.56
+S. pseudocostatum,SpseB,NB,0,0,4,22.91
+S. pseudocostatum,SpseB,NB,0.859502504,0.015249238,9,22.91
+S. pseudocostatum,SpseB,NB,1.358568474,0.013862944,15,22.91
+S. pseudocostatum,SpseB,NB,1.892291803,0.07624619,22,22.91
+S. pseudocostatum,SpseB,NB,1.961606521,0.037429948,25,22.91
+S. pseudocostatum,SpseB,NB,2.07251007,0.010397208,30,22.91
+S. pseudocostatum,SpseB,NB,1.855948323,0.011351367,33,22.91
+S. pseudocostatum,SpseB,NB,0,0,36,22.91
+S. pseudocostatum,SpseC,NB,0,0,4,22.91
+S. pseudocostatum,SpseC,NB,0.880296919,0.03188477,9,22.91
+S. pseudocostatum,SpseC,NB,1.157555792,0.013862944,15,22.91
+S. pseudocostatum,SpseC,NB,1.615032931,0.006931472,22,22.91
+S. pseudocostatum,SpseC,NB,1.857634444,0.015249238,25,22.91
+S. pseudocostatum,SpseC,NB,2.26659128,0.022873857,30,22.91
+S. pseudocostatum,SpseC,NB,0,0,32,22.91
+S. pseudocostatum,SpseD,NB,0,0,4,22.86
+S. pseudocostatum,SpseD,NB,0.755530427,0.008317766,9,22.86
+S. pseudocostatum,SpseD,NB,1.15062432,0.013862944,15,22.86
+S. pseudocostatum,SpseD,NB,1.871497388,0.069314718,22,22.86
+S. pseudocostatum,SpseD,NB,1.864565916,0.056838069,25,22.86
+S. pseudocostatum,SpseD,NB,1.56,0.011,27,22.86
+S. pseudocostatum,SpseD,NB,0,0,30,22.86
+S. pseudocostatum,SpseD,NB,,,33,22.86
+S. pseudocostatum,SpseE,NB,0,0,4,16.52
+S. pseudocostatum,SpseE,NB,0.748598955,0.033271065,9,16.52
+S. pseudocostatum,SpseE,NB,1.468085728,0.034657359,22,16.52
+S. pseudocostatum,SpseE,NB,0.722063001,0.034991646,33,16.52
+S. pseudocostatum,SpseE,NB,0,0,36,16.52
+S. pseudocostatum,SpseF,NB,0.066284032,0.01790525,-1,20.84
+S. pseudocostatum,SpseF,NB,0.4815,0.03827,4,20.84
+S. pseudocostatum,SpseF,NB,0,0,36,20.84
+S. pseudocostatum,SpseG,NB,0,0,36,20.84
