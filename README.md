@@ -1,4 +1,4 @@
-# Variability at the Thermal Limits
+# Variability_thermal_imits
 Diatom thermal growth variability results in species succession 
 
 These scripts are provided in the interests of open science. If you have questions or find errors, please let us know.
